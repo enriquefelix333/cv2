@@ -1,0 +1,57 @@
+body{margin:0;
+text-align:center;
+font-family: 'Didact Gothic', sans-serif;
+
+}
+
+h1{
+margin:0;
+font-family: 'Dancing Script', cursive;
+font-size:90px;
+color:#3C2A21;
+padding-bottom:50px;
+}
+
+hr {border-style:none;
+    border-top-style:dotted;
+    border-top-color:#FFCE45;
+    border-width: 5px;
+    height: 0px;
+    width: 65%;
+    }
+
+.top-container{
+background-color:#DAB88B;
+padding:50px;
+}
+
+.bottom-container{
+}
+
+.padres-gif{
+position:relative;
+}
+
+.pro{
+text-decoration:underline;
+text-decoration:bold;
+}
+
+.p1{
+font-size:40px;
+margin:0;
+}
+
+p{padding:0px;
+padding-left:8px;
+padding-right:8px;
+}
+
+.img{height:250px;
+width:250px;
+}
+
+.skills{background-color:#DAB88B;
+padding-top:10px;
+padding-bottom:10px;
+}
